@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/stepan-mitkin/drakonwidget/issues"
   },
-  "homepage": "https://github.com/stepan-mitkin/drakonwidget#readme"
+  "homepage": "https://github.com/stepan-mitkin/drakonwidget#readme",
+  "dependencies": {
+    "acorn": "^8.14.1"
+  }
 }

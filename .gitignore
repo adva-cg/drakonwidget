@@ -1,3 +1,14 @@
+.vscode/launch.json
+dtsrc/cacert.pem
+dtsrc/drakon_widget/1.json
+dtsrc/drakonwidget.js
+dtsrc/drakon_widget/project.json
+dtsrc/drakon_widget/*.drakon
+dtsrc/drakon_widget_/*
+dtsrc/rename.js
+dtsrc/run.bat
+dtsrc/out/
+
 # Logs
 logs
 *.log
